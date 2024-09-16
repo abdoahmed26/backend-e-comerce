@@ -1,6 +1,3 @@
-# backend-e-commerce
-this is backend for e-commerce by nodejs and express.js and mongodb
-
 # E-Commerce API
 
 A E-Commerce APIs implemented with (Node.js, Express.js, MongoDB)
